@@ -10,6 +10,5 @@ class Solution {
             nums[i++]=value;
         }
         return i;
-        
     }
 }
