@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/aman4402/leetcode-solution-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aman4402/leetcode-solution-/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/aman4402/leetcode-solution-/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aman4402/leetcode-solution-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/aman4402/leetcode-solution-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aman4402/leetcode-solution-/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/aman4402/leetcode-solution-/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
