@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aman4402/leetcode-solution-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0283-move-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aman4402/leetcode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aman4402/leetcode-solution-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aman4402/leetcode-solution-/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aman4402/leetcode-solution-/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/aman4402/leetcode-solution-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aman4402/leetcode-solution-/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aman4402/leetcode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aman4402/leetcode-solution-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aman4402/leetcode-solution-/tree/master/1480-running-sum-of-1d-array) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aman4402/leetcode-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aman4402/leetcode-solution-/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
