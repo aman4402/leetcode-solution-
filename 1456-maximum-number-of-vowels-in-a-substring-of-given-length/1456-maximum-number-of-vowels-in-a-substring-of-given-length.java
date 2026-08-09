@@ -1,26 +1,36 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        int maxVowels=0;
-        int windowVowels=0;
-        HashSet<Character> vowels=new HashSet<>();
-        vowels.add('a');vowels.add('e');vowels.add('i');
-        vowels.add('o'); vowels.add('u');
-        for(int i=0;i<k;i++){
-            if(vowels.contains(s.charAt(i))){
+
+        int windowVowels = 0;
+        int maxVowels = 0;
+
+        // First window
+        for (int i = 0; i < k; i++) {
+            if (isVowel(s.charAt(i))) {
                 windowVowels++;
-                maxVowels=windowVowels;
             }
         }
-            for(int i=k;i<s.length();i++){
-                if(vowels.contains(s.charAt(i-k))){
-                    windowVowels--;
-                }
-                if(vowels.contains(s.charAt(i))){
-                    windowVowels++;
-                }
-                maxVowels=Math.max(maxVowels,windowVowels);
+
+        maxVowels = windowVowels;
+
+        // Sliding window
+        for (int i = k; i < s.length(); i++) {
+
+            if (isVowel(s.charAt(i - k))) {
+                windowVowels--;
             }
-        
-            return maxVowels;
+
+            if (isVowel(s.charAt(i))) {
+                windowVowels++;
+            }
+
+            maxVowels = Math.max(maxVowels, windowVowels);
+        }
+
+        return maxVowels;
+    }
+
+    private boolean isVowel(char c) {
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
 }
