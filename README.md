@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aman4402/leetcode-solution-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/aman4402/leetcode-solution-/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman4402/leetcode-solution-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/aman4402/leetcode-solution-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aman4402/leetcode-solution-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aman4402/leetcode-solution-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/aman4402/leetcode-solution-/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aman4402/leetcode-solution-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
