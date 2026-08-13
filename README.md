@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aman4402/leetcode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/aman4402/leetcode-solution-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aman4402/leetcode-solution-/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/aman4402/leetcode-solution-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aman4402/leetcode-solution-/tree/master/1480-running-sum-of-1d-array) |
 | [1695-maximum-erasure-value](https://github.com/aman4402/leetcode-solution-/tree/master/1695-maximum-erasure-value) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aman4402/leetcode-solution-/tree/master/0278-first-bad-version) |
+| [0875-koko-eating-bananas](https://github.com/aman4402/leetcode-solution-/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
