@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aman4402/leetcode-solution-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aman4402/leetcode-solution-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aman4402/leetcode-solution-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aman4402/leetcode-solution-/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/aman4402/leetcode-solution-/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman4402/leetcode-solution-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aman4402/leetcode-solution-/tree/master/0055-jump-game) |
 ## Math
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aman4402/leetcode-solution-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aman4402/leetcode-solution-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aman4402/leetcode-solution-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman4402/leetcode-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
