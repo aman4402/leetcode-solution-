@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aman4402/leetcode-solution-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aman4402/leetcode-solution-/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aman4402/leetcode-solution-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman4402/leetcode-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aman4402/leetcode-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aman4402/leetcode-solution-/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
