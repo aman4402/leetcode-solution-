@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman4402/leetcode-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aman4402/leetcode-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/aman4402/leetcode-solution-/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/aman4402/leetcode-solution-/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aman4402/leetcode-solution-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman4402/leetcode-solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aman4402/leetcode-solution-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/aman4402/leetcode-solution-/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/aman4402/leetcode-solution-/tree/master/0135-candy) |
 ## Math
 |  |
 | ------- |
