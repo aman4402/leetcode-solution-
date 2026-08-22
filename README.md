@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman4402/leetcode-solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aman4402/leetcode-solution-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aman4402/leetcode-solution-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aman4402/leetcode-solution-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman4402/leetcode-solution-/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aman4402/leetcode-solution-/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/aman4402/leetcode-solution-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman4402/leetcode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aman4402/leetcode-solution-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aman4402/leetcode-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aman4402/leetcode-solution-/tree/master/0525-contiguous-array) |
