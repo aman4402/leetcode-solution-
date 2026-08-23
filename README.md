@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aman4402/leetcode-solution-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/aman4402/leetcode-solution-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aman4402/leetcode-solution-/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aman4402/leetcode-solution-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aman4402/leetcode-solution-/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aman4402/leetcode-solution-/tree/master/0054-spiral-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aman4402/leetcode-solution-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
