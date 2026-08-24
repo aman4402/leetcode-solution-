@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aman4402/leetcode-solution-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman4402/leetcode-solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aman4402/leetcode-solution-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aman4402/leetcode-solution-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aman4402/leetcode-solution-/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aman4402/leetcode-solution-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aman4402/leetcode-solution-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aman4402/leetcode-solution-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aman4402/leetcode-solution-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aman4402/leetcode-solution-/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/aman4402/leetcode-solution-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/aman4402/leetcode-solution-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aman4402/leetcode-solution-/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aman4402/leetcode-solution-/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aman4402/leetcode-solution-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aman4402/leetcode-solution-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
