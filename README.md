@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aman4402/leetcode-solution-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aman4402/leetcode-solution-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aman4402/leetcode-solution-/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/aman4402/leetcode-solution-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aman4402/leetcode-solution-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0088-merge-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aman4402/leetcode-solution-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aman4402/leetcode-solution-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/aman4402/leetcode-solution-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aman4402/leetcode-solution-/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/aman4402/leetcode-solution-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
