@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aman4402/leetcode-solution-/tree/master/1480-running-sum-of-1d-array) |
 | [1695-maximum-erasure-value](https://github.com/aman4402/leetcode-solution-/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/aman4402/leetcode-solution-/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/aman4402/leetcode-solution-/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aman4402/leetcode-solution-/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/aman4402/leetcode-solution-/tree/master/1929-concatenation-of-array) |
 ## Bracket Sequences
 |  |
 | ------- |
