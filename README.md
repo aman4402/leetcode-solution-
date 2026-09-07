@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aman4402/leetcode-solution-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aman4402/leetcode-solution-/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-distinct-subsequences-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aman4402/leetcode-solution-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman4402/leetcode-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aman4402/leetcode-solution-/tree/master/0152-maximum-product-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |
 | ------- |
