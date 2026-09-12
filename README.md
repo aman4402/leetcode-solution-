@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/aman4402/leetcode-solution-/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/aman4402/leetcode-solution-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aman4402/leetcode-solution-/tree/master/1929-concatenation-of-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aman4402/leetcode-solution-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman4402/leetcode-solution-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/aman4402/leetcode-solution-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aman4402/leetcode-solution-/tree/master/3904-smallest-stable-index-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/aman4402/leetcode-solution-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman4402/leetcode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aman4402/leetcode-solution-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aman4402/leetcode-solution-/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aman4402/leetcode-solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aman4402/leetcode-solution-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman4402/leetcode-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aman4402/leetcode-solution-/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aman4402/leetcode-solution-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
