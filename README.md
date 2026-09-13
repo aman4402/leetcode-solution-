@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aman4402/leetcode-solution-/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/aman4402/leetcode-solution-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aman4402/leetcode-solution-/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/aman4402/leetcode-solution-/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/aman4402/leetcode-solution-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman4402/leetcode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aman4402/leetcode-solution-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aman4402/leetcode-solution-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aman4402/leetcode-solution-/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/aman4402/leetcode-solution-/tree/master/0835-image-overlap) |
 ## Simulation
 |  |
 | ------- |
