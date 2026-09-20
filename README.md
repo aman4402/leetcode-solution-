@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aman4402/leetcode-solution-/tree/master/1480-running-sum-of-1d-array) |
 | [1695-maximum-erasure-value](https://github.com/aman4402/leetcode-solution-/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/aman4402/leetcode-solution-/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/aman4402/leetcode-solution-/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/aman4402/leetcode-solution-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aman4402/leetcode-solution-/tree/master/1929-concatenation-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aman4402/leetcode-solution-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aman4402/leetcode-solution-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aman4402/leetcode-solution-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aman4402/leetcode-solution-/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/aman4402/leetcode-solution-/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/aman4402/leetcode-solution-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aman4402/leetcode-solution-/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aman4402/leetcode-solution-/tree/master/0169-majority-element) |
+| [1854-maximum-population-year](https://github.com/aman4402/leetcode-solution-/tree/master/1854-maximum-population-year) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
