@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aman4402/leetcode-solution-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aman4402/leetcode-solution-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aman4402/leetcode-solution-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/aman4402/leetcode-solution-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aman4402/leetcode-solution-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aman4402/leetcode-solution-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/aman4402/leetcode-solution-/tree/master/0290-word-pattern) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aman4402/leetcode-solution-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aman4402/leetcode-solution-/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/aman4402/leetcode-solution-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/aman4402/leetcode-solution-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aman4402/leetcode-solution-/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/aman4402/leetcode-solution-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
