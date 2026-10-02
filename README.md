@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aman4402/leetcode-solution-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aman4402/leetcode-solution-/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aman4402/leetcode-solution-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aman4402/leetcode-solution-/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/aman4402/leetcode-solution-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aman4402/leetcode-solution-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/aman4402/leetcode-solution-/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aman4402/leetcode-solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aman4402/leetcode-solution-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aman4402/leetcode-solution-/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aman4402/leetcode-solution-/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Pigeonhole Principle
 |  |
 | ------- |
