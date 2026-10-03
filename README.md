@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aman4402/leetcode-solution-/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/aman4402/leetcode-solution-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aman4402/leetcode-solution-/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aman4402/leetcode-solution-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/aman4402/leetcode-solution-/tree/master/0836-rectangle-overlap) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aman4402/leetcode-solution-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aman4402/leetcode-solution-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/aman4402/leetcode-solution-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aman4402/leetcode-solution-/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Pigeonhole Principle
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aman4402/leetcode-solution-/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/aman4402/leetcode-solution-/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman4402/leetcode-solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
