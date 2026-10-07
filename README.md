@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aman4402/leetcode-solution-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/aman4402/leetcode-solution-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/aman4402/leetcode-solution-/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/aman4402/leetcode-solution-/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aman4402/leetcode-solution-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aman4402/leetcode-solution-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aman4402/leetcode-solution-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aman4402/leetcode-solution-/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting
 |  |
 | ------- |
