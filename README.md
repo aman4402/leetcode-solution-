@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/aman4402/leetcode-solution-/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aman4402/leetcode-solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/aman4402/leetcode-solution-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3870-count-commas-in-range](https://github.com/aman4402/leetcode-solution-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aman4402/leetcode-solution-/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
