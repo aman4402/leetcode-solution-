@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aman4402/leetcode-solution-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman4402/leetcode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aman4402/leetcode-solution-/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/aman4402/leetcode-solution-/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/aman4402/leetcode-solution-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aman4402/leetcode-solution-/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/aman4402/leetcode-solution-/tree/master/0835-image-overlap) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aman4402/leetcode-solution-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman4402/leetcode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aman4402/leetcode-solution-/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/aman4402/leetcode-solution-/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aman4402/leetcode-solution-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aman4402/leetcode-solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/aman4402/leetcode-solution-/tree/master/1695-maximum-erasure-value) |
