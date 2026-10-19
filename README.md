@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/aman4402/leetcode-solution-/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aman4402/leetcode-solution-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/aman4402/leetcode-solution-/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aman4402/leetcode-solution-/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/aman4402/leetcode-solution-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aman4402/leetcode-solution-/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
