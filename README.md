@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aman4402/leetcode-solution-/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/aman4402/leetcode-solution-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/aman4402/leetcode-solution-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aman4402/leetcode-solution-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/aman4402/leetcode-solution-/tree/master/0389-find-the-difference) |
