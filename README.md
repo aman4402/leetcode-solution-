@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aman4402/leetcode-solution-/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/aman4402/leetcode-solution-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aman4402/leetcode-solution-/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aman4402/leetcode-solution-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aman4402/leetcode-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aman4402/leetcode-solution-/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/aman4402/leetcode-solution-/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/aman4402/leetcode-solution-/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aman4402/leetcode-solution-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aman4402/leetcode-solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/aman4402/leetcode-solution-/tree/master/1695-maximum-erasure-value) |
