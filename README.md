@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aman4402/leetcode-solution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/aman4402/leetcode-solution-/tree/master/1544-make-the-string-great) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/aman4402/leetcode-solution-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aman4402/leetcode-solution-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aman4402/leetcode-solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aman4402/leetcode-solution-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/aman4402/leetcode-solution-/tree/master/1695-maximum-erasure-value) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/aman4402/leetcode-solution-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman4402/leetcode-solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
