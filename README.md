@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aman4402/leetcode-solution-/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/aman4402/leetcode-solution-/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/aman4402/leetcode-solution-/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aman4402/leetcode-solution-/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/aman4402/leetcode-solution-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aman4402/leetcode-solution-/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/aman4402/leetcode-solution-/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aman4402/leetcode-solution-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0940-distinct-subsequences-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aman4402/leetcode-solution-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aman4402/leetcode-solution-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/aman4402/leetcode-solution-/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/aman4402/leetcode-solution-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aman4402/leetcode-solution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/aman4402/leetcode-solution-/tree/master/1544-make-the-string-great) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aman4402/leetcode-solution-/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/aman4402/leetcode-solution-/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/aman4402/leetcode-solution-/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/aman4402/leetcode-solution-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aman4402/leetcode-solution-/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/2390-removing-stars-from-a-string) |
