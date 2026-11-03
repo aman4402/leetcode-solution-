@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aman4402/leetcode-solution-/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aman4402/leetcode-solution-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aman4402/leetcode-solution-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aman4402/leetcode-solution-/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aman4402/leetcode-solution-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/aman4402/leetcode-solution-/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aman4402/leetcode-solution-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/aman4402/leetcode-solution-/tree/master/0561-array-partition) |
 | [0922-sort-array-by-parity-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aman4402/leetcode-solution-/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman4402/leetcode-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aman4402/leetcode-solution-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aman4402/leetcode-solution-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aman4402/leetcode-solution-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aman4402/leetcode-solution-/tree/master/0525-contiguous-array) |
