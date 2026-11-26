@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aman4402/leetcode-solution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aman4402/leetcode-solution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/aman4402/leetcode-solution-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman4402/leetcode-solution-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/aman4402/leetcode-solution-/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aman4402/leetcode-solution-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/aman4402/leetcode-solution-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman4402/leetcode-solution-/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman4402/leetcode-solution-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/aman4402/leetcode-solution-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aman4402/leetcode-solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aman4402/leetcode-solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aman4402/leetcode-solution-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/aman4402/leetcode-solution-/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/aman4402/leetcode-solution-/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aman4402/leetcode-solution-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/aman4402/leetcode-solution-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aman4402/leetcode-solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aman4402/leetcode-solution-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/aman4402/leetcode-solution-/tree/master/1695-maximum-erasure-value) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aman4402/leetcode-solution-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aman4402/leetcode-solution-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/aman4402/leetcode-solution-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aman4402/leetcode-solution-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/aman4402/leetcode-solution-/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/aman4402/leetcode-solution-/tree/master/1854-maximum-population-year) |
