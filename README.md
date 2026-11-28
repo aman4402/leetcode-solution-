@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aman4402/leetcode-solution-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aman4402/leetcode-solution-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/aman4402/leetcode-solution-/tree/master/2390-removing-stars-from-a-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/aman4402/leetcode-solution-/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Array
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/aman4402/leetcode-solution-/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/aman4402/leetcode-solution-/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aman4402/leetcode-solution-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/aman4402/leetcode-solution-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman4402/leetcode-solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aman4402/leetcode-solution-/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/aman4402/leetcode-solution-/tree/master/1854-maximum-population-year) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aman4402/leetcode-solution-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/aman4402/leetcode-solution-/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
